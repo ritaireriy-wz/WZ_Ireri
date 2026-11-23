@@ -99,7 +99,7 @@ I care about modular architecture, clear documentation, reliable systems, and me
 I am open to data engineering, machine learning, autonomous systems, and full-stack software opportunities across Europe and globally.
 
 - 📍 Location: Budapest, Hungary
-- 💼 LinkedIn: [Add your profile](https://linkedin.com/in/your-profile)
+- 💼 LinkedIn: [My profile](https://www.linkedin.com/in/rita-irerii/)
 - 🌐 Portfolio: [Visit my portfolio](https://linktr.ee/rita.ireriii)
 - 📧 Email: [Rita Ireri](mailto:rita.ireriy@gmail.com@example.com)
 
