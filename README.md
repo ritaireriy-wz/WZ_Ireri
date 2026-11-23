@@ -6,9 +6,9 @@
 
 I build scalable data pipelines, intelligent automation workflows, and autonomous perception systems that solve real operational problems.
 
-[![Portfolio](https://linktr.ee/rita.ireriii)
-[![LinkedIn](https://www.linkedin.com/in/rita-irerii/)](https://linkedin.com/in/your-profile)
-[![Email](Rita Ireri)](mailto:rita.ireriy@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/rita.ireriii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rita-irerii/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rita.ireriy@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritaireriy-wz)
 
 [![](https://img.shields.io/badge/Open%20to-Data%20%7C%20AI%2FML%20%7C%20Software%20Engineering-1f6feb?style=flat-square)](https://github.com/ritaireriy-wz)
@@ -99,9 +99,9 @@ I care about modular architecture, clear documentation, reliable systems, and me
 I am open to data engineering, machine learning, autonomous systems, and full-stack software opportunities across Europe and globally.
 
 - 📍 Location: Budapest, Hungary
-- 💼 LinkedIn: [My profile](https://www.linkedin.com/in/rita-irerii/)
-- 🌐 Portfolio: [Visit my portfolio](https://linktr.ee/rita.ireriii)
-- 📧 Email: [Rita Ireri](mailto:rita.ireriy@gmail.com@example.com)
+- 💼 LinkedIn: [Rita Ireri](https://www.linkedin.com/in/rita-irerii/)
+- 🌐 Portfolio: [linktr.ee/rita.ireriii](https://linktr.ee/rita.ireriii)
+- 📧 Email: [rita.ireriy@gmail.com](mailto:rita.ireriy@gmail.com)
 
 <div align="center">
 
