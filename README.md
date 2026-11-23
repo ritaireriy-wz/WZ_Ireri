@@ -101,7 +101,7 @@ I am open to data engineering, machine learning, autonomous systems, and full-st
 - 📍 Location: Budapest, Hungary
 - 💼 LinkedIn: [Add your profile](https://linkedin.com/in/your-profile)
 - 🌐 Portfolio: [Visit my portfolio](https://linktr.ee/rita.ireriii)
-- 📧 Email: [you@example.com](mailto:rita.ireriy@gmail.com@example.com)
+- 📧 Email: [Rita Ireri](mailto:rita.ireriy@gmail.com@example.com)
 
 <div align="center">
 
