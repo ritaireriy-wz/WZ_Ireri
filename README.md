@@ -15,7 +15,7 @@ I build scalable data pipelines, intelligent automation workflows, and autonomou
 
 </div>
 
-## 👋 About me
+## About me
 
 I am a computer science graduate student pursuing an **MSc in Computer Science for Autonomous Systems** at **Eötvös Loránd University (ELTE)** in Budapest (Stipendium Hungaricum Scholar), holding a **First Class Honours BSc in Business Information Technology** from Strathmore University. I bridge business strategy and hands-on engineering across data analytics, robotic process automation, computer vision, and full-stack software development:
 
@@ -29,7 +29,7 @@ I care about modular architecture, clear documentation, reliable systems, and me
 
 > **Highlights:** Reduced insurance claims turnaround times by **over 40%** via Python & Power Automate RPA workflows; engineered a Python/Power BI ETL pipeline processing **300,000+ transaction rows** at Coca-Cola Beverages Africa; built a GenAI chatbot adopted by **1,000+ users**.
 
-## 🧭 What I build
+## What I build
 
 | Data & BI engineering | AI, ML & computer vision | Software & automation |
 |---|---|---|
@@ -38,7 +38,7 @@ I care about modular architecture, clear documentation, reliable systems, and me
 | Interactive Power BI executive dashboards | Digital signal & audio restoration (MATLAB) | B2B digital transformation & SharePoint setups |
 | Commercial & channel data analytics | Conversational GenAI chatbots | Modular APIs & database schemas |
 
-## 🛠️ Technology stack
+## Technology stack
 
 ### Data, AI & scientific computing
 
@@ -68,7 +68,7 @@ I care about modular architecture, clear documentation, reliable systems, and me
 ![SAP](https://img.shields.io/badge/SAP_Business_One-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-## 🚀 Featured projects
+## Featured projects
 
 | Project | What it does | Technologies |
 |---|---|---|
@@ -78,7 +78,7 @@ I care about modular architecture, clear documentation, reliable systems, and me
 | **VIM Rental Management Platform** | Dynamic property management system featuring multi-role RBAC, M-Pesa & card payment integrations, lease snapshots, and deposit claim workflows. | Full-Stack Web, SQL, Payment APIs |
 
 
-## 📊 GitHub activity
+## GitHub activity
 
 <div align="center">
 
@@ -87,14 +87,14 @@ I care about modular architecture, clear documentation, reliable systems, and me
 
 </div>
 
-## 🌱 Current focus
+## Current focus
 
 - Pursuing an MSc in Computer Science for Autonomous Systems at ELTE (Budapest)
 - Building computer vision, signal processing, and PyTorch deep learning systems
 - Scaling **NEXUS TECH**, a B2B digital transformation and business intelligence consultancy for SMEs
 - Seeking European software, data science, or AI/ML engineering internships
 
-## 🤝 Let’s connect
+## Let’s connect
 
 I am open to data engineering, machine learning, autonomous systems, and full-stack software opportunities across Europe and globally.
 
