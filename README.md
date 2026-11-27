@@ -76,7 +76,7 @@ I care about modular architecture, clear documentation, reliable systems, and me
 | **Enterprise Invoice ETL & Star-Schema BI** | Automated data pipeline transforming 300,000+ raw invoice rows into a star-schema model, paired with a master data audit of 1,894 field records. | Python, SQL, Power BI |
 | **Insurance Claims RPA & OCR Automation** | End-to-end automated document extraction and claims routing workflows that cut turnaround times by over 40% for CIC Insurance and Old Mutual. | Python, Power Automate, Azure Form Recognizer |
 | **VIM Rental Management Platform** | Dynamic property management system featuring multi-role RBAC, M-Pesa & card payment integrations, lease snapshots, and deposit claim workflows. | Full-Stack Web, SQL, Payment APIs |
-| **BuzzBot GenAI Assistant** | Conversational AI assistant designed and deployed for organizational support, reaching 1,000+ active users. | Python, Generative AI, REST APIs |
+
 
 ## 📊 GitHub activity
 
