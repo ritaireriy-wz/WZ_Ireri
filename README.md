@@ -27,7 +27,7 @@ I am a computer science graduate student pursuing an **MSc in Computer Science f
 
 I care about modular architecture, clear documentation, reliable systems, and measurable business impact.
 
-> **Highlights:** Reduced insurance claims turnaround times by **over 40%** via Python & Power Automate RPA workflows; engineered a Python/Power BI ETL pipeline processing **300,000+ transaction rows** at Coca-Cola Beverages Africa; built a GenAI chatbot adopted by **1,000+ users**.
+> **Highlights:** Reduced insurance claims turnaround times by **over 40%** via Python & Power Automate RPA workflows; engineered a Python/Power BI ETL pipeline processing **300,000+ transaction rows** at Coca-Cola Beverages Africa.
 
 ## What I build
 
