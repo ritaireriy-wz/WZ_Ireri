@@ -90,11 +90,11 @@ I care about modular architecture, clear documentation, reliable systems, and me
 ## Current focus
 
 - Pursuing an MSc in Computer Science for Autonomous Systems at ELTE (Budapest)
-        - Deep Network Development and Advanced Deep Network Development (PyTorch)
-        - Deep Reinforcement Learning
-        - 3D Computer Vision and 3D Sensing and Sensor Fusion
-        - Image and Video Processing, Image and Signal Processing
-        - Embedded and Real-Time Systems
+        - Deep Network Development and Advanced Deep Network Development (PyTorch) <br>
+        - Deep Reinforcement Learning <br> 
+        - 3D Computer Vision and 3D Sensing and Sensor Fusion <br> 
+        - Image and Video Processing, Image and Signal Processing <br>
+        - Embedded and Real-Time Systems <br>
         - System and Control Theory, Introduction to Vehicles and Sensors
 - Building computer vision, signal processing, and PyTorch deep learning systems
 - Scaling **NEXUS TECH**, a B2B digital transformation and business intelligence consultancy for SMEs
